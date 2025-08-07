@@ -1,0 +1,2 @@
+https://alignlens.app/
+AlignLens helps developers, researchers, and product teams assess whether AI generated responses align with user intent, tone, and emotional context: ensuring ouputs that are respectful, empathetic and helpful.
